@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "long_num.hpp"
+#include "long_number.hpp"
 
 using namespace rwh;
 

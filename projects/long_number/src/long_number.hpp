@@ -5,7 +5,7 @@
 namespace rwh {
 	class LongNumber {
 		private:
-			int* digits;
+			int* numbers;
 			int length;
 			int sign;
 		

@@ -1,4 +1,4 @@
 @echo off
-cd build_Ninja
+cd build_ninja
 ctest --verbose
 pause
